@@ -39,9 +39,10 @@ Replace the character mesh:
 * Play the game or simulate it to see the changes you made to the character.
 
 # OUTPUT:
-![image](https://github.com/user-attachments/assets/24109278-f23b-454d-bc2f-62a13e183635)
-![image](https://github.com/user-attachments/assets/c6381f49-16ff-4ccc-938a-d0c7090fc9da)
-![image](https://github.com/user-attachments/assets/0d27353d-3178-4b11-b2b4-6aa209c3178f)
+![image](https://github.com/user-attachments/assets/c13dc6d0-e342-4f8c-a4bb-524b4ea058d7)
+![image](https://github.com/user-attachments/assets/e14f62cf-5807-4b18-b762-2822850239d5)
+![image](https://github.com/user-attachments/assets/b0cff1e9-15f9-441e-9f0d-d45ae2a0301e)
+
 
 # RESULT:
 Changing the third-person character mesh and adding animations is implemented Successfully.
